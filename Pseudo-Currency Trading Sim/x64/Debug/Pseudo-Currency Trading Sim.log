@@ -1,0 +1,69 @@
+﻿  Main Menu.cpp
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\Main Chain Bot.h(6,1): error C2011: 'Chain': 'class' type redefinition
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\Main Chain Bot.h(5,7): message : see declaration of 'Chain'
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(9,1): error C2504: 'Chain': base class undefined
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(11,7): error C2143: syntax error: missing ';' before '*'
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(11,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(11,10): error C2238: unexpected token(s) preceding ';'
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(23,7): error C2143: syntax error: missing ';' before '*'
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(23,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(24,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(15,3): error C2065: 'u': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(16,3): error C2065: 'u': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(17,3): error C2065: 'u': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(18,3): error C2065: 'u': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(19,3): error C2065: 'u': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(20,3): error C2065: 'u': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(48,3): error C2065: 'Block': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(48,10): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(48,17): error C3861: 'findUser': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(50,27): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(51,22): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(52,23): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(53,25): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(58,3): error C2065: 'Block': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(58,10): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(58,17): error C3861: 'findUser': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(60,3): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(65,3): error C2065: 'Block': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(65,10): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(65,17): error C3861: 'findUser': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(71,14): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(78,3): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(80,3): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(83,34): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(84,33): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(93,3): error C2065: 'Block': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(93,10): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(93,17): error C3861: 'findUser': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(95,16): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(99,4): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(104,20): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(108,18): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(112,6): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(131,3): error C2065: 'Block': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(131,10): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(131,17): error C3861: 'findUser': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(133,16): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(141,5): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(152,7): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(161,20): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(165,18): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(173,7): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(184,9): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(202,3): error C2065: 'Block': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(202,10): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(202,17): error C3861: 'findUser': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(216,17): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(218,17): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(218,5): error C3861: 'deleteBlock': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(223,21): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(227,19): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(229,19): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(229,7): error C3861: 'deleteBlock': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(249,3): error C2065: 'Block': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(249,10): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(249,17): error C3861: 'findUser': identifier not found
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(252,25): error C2065: 'curr': undeclared identifier
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\User Interface.h(278,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Coding Practices\Passion Projects\Pseudo-Currency Trading Simulator\Pseudo-Currency Trading Sim\Main Menu.cpp(17,8): error C2079: 'user' uses undefined class 'Chain'
